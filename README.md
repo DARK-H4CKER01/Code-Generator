@@ -15,7 +15,7 @@ apt update
 apt upgrade -y
 ```
 ```
-pkg install git
+pkg install git -y
 ```
 ```
 git clone https://github.com/DARK-H4CKER01/Code-Generator.git
