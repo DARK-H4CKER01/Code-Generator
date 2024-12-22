@@ -8,24 +8,32 @@
 
 ## INSTALL WITH TERMUX :
 
-```apt update
 ```
-```apt upgrade -y
+apt update
 ```
-```pkg install git
 ```
-```git clone https://github.com/DARK-H4CKER01/Code-Generator.git
+apt upgrade -y
 ```
-```cd Code-Generator
 ```
-```chmod +x *
+pkg install git
 ```
-```bash install.sh
+```
+git clone https://github.com/DARK-H4CKER01/Code-Generator.git
+```
+```
+cd Code-Generator
+```
+```
+chmod +x *
+```
+```
+bash install.sh
 ```
 
 ### RUN :
 
-```code
+```
+code
 ```
 
 <details id="missing-code-coverage">
